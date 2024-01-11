@@ -4,7 +4,7 @@ import 'package:emart_app/consts/consts.dart';
 
 const appname = "eMart";
 const appversion = "Version 1.0.0";
-const credits = "Sany & Sarah";
+const credits = "emart";
 const email = "Email";
 const emailHint = "admin@gmail.com";
 const password = "Password";
