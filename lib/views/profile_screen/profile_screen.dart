@@ -40,7 +40,7 @@ class ProfileScreen extends StatelessWidget {
                       child: Column(
                     crossAxisAlignment: CrossAxisAlignment.start,
                     children: [
-                      "Dummy User".text.fontFamily(semibold).white.make(),
+                      "Sarah".text.fontFamily(semibold).white.make(),
                       "customer@example.com".text.white.make(),
                     ],
                   )),
